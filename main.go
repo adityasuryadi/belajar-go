@@ -34,7 +34,7 @@ func main() {
 			return
 		}
 
-		text := "Hello world test"
+		text := "Hello world test ssh"
 		w.Write([]byte(text))
 	})
 
